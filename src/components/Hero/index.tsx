@@ -1,5 +1,5 @@
 import { Container } from '../../style'
-import { ContainerHero, HeroDiv, HeroTitle } from './styles'
+import { ContainerHero, HeroTitle } from './styles'
 
 const Hero = () => (
   <ContainerHero>

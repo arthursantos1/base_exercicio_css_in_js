@@ -23,4 +23,8 @@ export const BotaoPesquisar = styled.button`
 export const Campo = styled.input`
   padding: 0 16px;
   outline-color: #a7727d;
+
+  @media (max-width: 768px) {
+    width: 90%;
+  }
 `
